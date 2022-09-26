@@ -1,0 +1,57 @@
+.liste {
+    list-style: none;
+}
+.nom{
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.commentaire{
+    font-weight: 300;
+    padding-bottom: 0.75rem;
+}
+
+.blue_card {
+    background-color: #a9c4e4;
+    border-radius: 10px;
+    color: white;
+    padding: 40px;
+    margin: 5%;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
+
+.white_card {
+    border: solid;
+    background-color: white;
+    border-radius: 10px;
+    color: #a9c4e4;
+    padding: 40px;
+    margin: 5%;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
+
+button {
+    border: 1px;
+    border-radius: 5px;
+}
+
+.blue_card button {
+    background-color: white;
+}
+
+.white_card button {
+    background-color: #a9c4e4;
+}
+
+
+.n-suivi {
+    box-shadow: 5px 2px 2px #282c34;
+}
+
+.n-suivi:hover {
+    box-shadow: inherit;
+}

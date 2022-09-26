@@ -1,0 +1,31 @@
+.footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    height:50px;
+    background-color: #a9c4e4;
+    color: white;
+    border-bottom: solid 1px #a9c4e4;
+    border-top: solid 1px #a9c4e4;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.numero {
+    padding: 3rem;
+}
+
+.site {
+    padding: 3rem;
+}
+
+a {
+    color: white;
+}
+
+.rights {
+    padding: 3rem;
+}
+
